@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# AI Powered To-Do App 📝
 
-# Run and deploy your AI Studio app
+Bu proje, **Google AI Studio (Gemini)** kullanılarak geliştirilmiş basit bir yapılacaklar listesi (To-Do List) uygulamasıdır.
 
-This contains everything you need to run your app locally.
+## 🎯 Projenin Amacı
+Bu uygulamayı geliştirme amacım, tam çalışan bir ürün ortaya koymaktan ziyade;
+* Yapay zekanın (AI) kod yazma sürecine nasıl dahil olduğunu görmek,
+* Google AI Studio ve Gemini'nin yeteneklerini test etmek,
+* AI ile geliştirme mantığını kavramaktır.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1LhJAS0uWZUh4li5FjUcmVqDbZxsE00VX
+## ⚠️ Not
+Bu proje **test amaçlıdır** ve deneysel bir çalışmadır.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠 Kullanılan Teknolojiler
+* Google Gemini (AI Studio)
